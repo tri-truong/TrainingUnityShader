@@ -6,9 +6,9 @@ Training Unity Computer Graphics March 2017
 - Install Unity 5.3 or higher
 - Finish and submit the exercise every week.
 
-**Week 1**
-Intro Graphics
+**Week 1: Computer Graphics**
 
+Intro Graphics
 - Graphics library 
 - Render pipeline
 
@@ -20,7 +20,7 @@ How to render principal Objects Unity ?
 
 Exercise : create Cube , Circle, TinyWings, HeightMap
 
-**Week 2 : Shader languages in Unity 01**
+**Week 2: Shader languages in Unity 01**
 
 Intro shader languages
 
@@ -42,7 +42,7 @@ Specials effects
 
 Exercise : Create Mask shader
 
-**Week 3:Shader languages in Unity 02**
+**Week 3: Shader languages in Unity 02**
 
 How to Shaders working together ?
 
@@ -57,7 +57,7 @@ How to Shaders working together ?
 
 Exercise: Create Highlight Shaders
 
-**Week 4:Tips - Tricks Render in Unity**
+**Week 4: Tips - Tricks Render in Unity**
 
 Keep track performance Render
 
