@@ -47,12 +47,16 @@ Exercise : Create Mask shader
 How to Shaders working together ?
 
 - Render Queue ?
+
 -- How to specifi render queue ?
 -- Rendering Order - Queue tag?
 -- Depth Mask shader
+
 - Blend Mode
+
 -- Blend operations,Blend factors
 --- Additive shader 
+
 - Z-Buffer, Z-Test
 
 Exercise: Create Highlight Shaders
