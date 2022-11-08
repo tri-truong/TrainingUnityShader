@@ -1,5 +1,5 @@
 
-# TrainingMarch2017
+# Training March 2017
 Training Unity Computer Graphics March 2017
 
 Slide https://www.slideshare.net/gader/unity-advanced-computer-graphics
